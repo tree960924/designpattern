@@ -1,4 +1,4 @@
-package example.ObserverPattern;
+package designpatternExample.ObserverPattern;
 
 public class WeatherStation {
     public static void main(String[] args){
