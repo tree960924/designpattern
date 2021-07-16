@@ -1,4 +1,4 @@
-package designpatternExample.DecoratorPattern;
+package DecoratorPattern;
 
 public class HouseBlend extends Beverage {
     public HouseBlend(){

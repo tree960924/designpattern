@@ -1,4 +1,4 @@
-package designpatternExample.DecoratorPattern;
+package DecoratorPattern;
 
 public class StarbuzzCoffee {
     public static void main(String[] argv){

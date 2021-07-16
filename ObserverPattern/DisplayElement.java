@@ -1,4 +1,4 @@
-package designpatternExample.ObserverPattern;
+package ObserverPattern;
 
 public interface DisplayElement {
     public void display();

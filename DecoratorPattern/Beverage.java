@@ -1,4 +1,4 @@
-package designpatternExample.DecoratorPattern;
+package DecoratorPattern;
 
 public abstract class Beverage {
     String description = "제목 없음";
